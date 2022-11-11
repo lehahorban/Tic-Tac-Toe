@@ -1,4 +1,43 @@
 .regulations {
-    margin-top: 39px;
+    margin-top: 15px;
     border-top: 1px solid #EBE0D2;
+}
+
+.regulations_game {
+    margin-top: 8px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    color: #313253;
+}
+
+.regulations_text {
+    font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 22px;    
+        color: #313253;
+}
+
+.rules_text {
+    font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 22px;
+        color: #313253;
+        text-transform: uppercase;
+
+}
+
+.rules_item {
+    font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 22px;
+        color: #313253;
 }
