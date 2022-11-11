@@ -2,7 +2,7 @@
   "name": "tic-tac-toe",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/tic-tac-toe",
+  "homepage": "https://goitacademy.github.io/tic-tac-toe/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /tic-tac-toe/"
