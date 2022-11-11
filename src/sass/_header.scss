@@ -1,9 +1,44 @@
-.header {
-    
-    display: block;
-    background-color: #FAF8F0;;
+.header {    
+    display: flex;
+    justify-content: space-between;
+    background-color: #FAF8F0;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-bottom: 2px solid #313253;;
 }
 
 .logo_wrapper {
     display: flex;
 }
+
+.game_wrapper {
+    border-left: 2px solid #313253;;
+    display: flex;
+}
+
+.image_wrapper {
+    display: flex;
+}
+
+.image_wrapper-right {
+    display: flex;
+margin-left: 40px;
+}
+
+.header-link {
+    font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 22px;      
+        color: #313253;
+}
+
+.header-register {
+    font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 22px;
+        color: #313253;
+    }

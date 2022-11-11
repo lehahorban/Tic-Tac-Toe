@@ -1,0 +1,92 @@
+.support {
+    margin-top: 39px;
+    border-top: 1px solid #EBE0D2;
+    display: flex;
+}
+
+.support_wrapper {
+margin-top: 8px;
+}
+
+.donate_wrapper {
+    display: flex;
+}
+
+
+.game_text {
+font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    color: #313253;
+}
+
+.support_text {
+    margin-left: 8px;
+    font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 22px;       
+        color: #313253;
+}
+
+.error_wrapper {
+    margin-top: 8px;
+    margin-left: 64px;
+}
+
+.donate_wrapper {
+    margin-top: 8px;
+}
+
+.btn_donate {
+    margin-top: 10px;
+    width: 188px;
+        height: 34px;            
+        background: #313253;   
+        border-bottom: 3px solid #08091A;
+        border-radius: 4px;
+        font-family: 'Nunito';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            line-height: 18px;              
+            color: #FFFFFF;
+}
+
+.error_find {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    color: #313253;
+}
+
+.error_text {
+    margin-top: 8px;
+    font-family: 'Nunito';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 22px;    
+        color: #313253;
+}
+
+
+.btn_error {
+    margin-top: 10px;
+    width: 102px;
+        height: 34px;    
+        background: #FFFFFF;    
+        border-bottom: 2px solid #313253;
+        border-radius: 4px;
+        font-family: 'Nunito';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            line-height: 18px;               
+            color: #313253;
+}
