@@ -1,7 +1,16 @@
 .support {
     background-color: #FAF8F0;   
-    border-top: 1px solid #EBE0D2;
+    
     display: flex;
+    padding-bottom: 15px;
+}
+
+.support_container {
+    margin: 0 auto;
+        width: 708px;
+        display: flex;
+        border-top: 1px solid #EBE0D2;
+       
 }
 
 .support_wrapper {
