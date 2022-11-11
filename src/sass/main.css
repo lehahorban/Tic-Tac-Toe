@@ -39,6 +39,12 @@ button {
   background-color: #FAF8F0;
 }
 
+.logo_wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .hero {
   display: -webkit-box;
   display: -ms-flexbox;
